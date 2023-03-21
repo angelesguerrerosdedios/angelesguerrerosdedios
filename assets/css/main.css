@@ -71,6 +71,13 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+.logo-angeles	{
+		padding-top: 12px;
+		float: left;
+		margin-right: 9px;
+		width: 51px;
+	}
+
 
 /* Basic */
 
