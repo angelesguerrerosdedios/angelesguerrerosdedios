@@ -2260,8 +2260,8 @@ input, select, textarea {
 
 /* One */
 
-	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+	#nuestro-impacto {
+		background: url("images/overlay.png"), url("../../images/quienessomos.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2269,8 +2269,8 @@ input, select, textarea {
 
 /* Two */
 
-	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+	#quienes-somos {
+		background: url("images/overlay.png"), url("../../images/nuestroimpactobck.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
