@@ -773,10 +773,9 @@ input, select, textarea {
 
 /* Form */
 
-	form {
-		margin: 0 0 2em 0;
-	}
-
+form {
+    margin: 0 0 1em 0;
+}
 		form > :last-child {
 			margin-bottom: 0;
 		}
@@ -2261,7 +2260,7 @@ input, select, textarea {
 /* One */
 
 	#nuestro-impacto {
-		background: url("images/overlay.png"), url("../../images/quienessomos.jpg");
+		background: url("images/overlay.png"), url("../../images/quienessomosbck.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
